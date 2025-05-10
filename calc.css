@@ -1,0 +1,18 @@
+body {
+  background-color: #ffebcd;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.calculator {
+  width: 360px;
+  background-color: #000000;
+}
+
+#display {
+  height: 60px;
+  font-size: 1.4rem;
+}
+.text-beige {
+  color: beige;
+  text-shadow: 1px 1px 2px #333;
+}
